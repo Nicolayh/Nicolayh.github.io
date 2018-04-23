@@ -1,0 +1,37 @@
+body, html {
+	height: 100%;
+	width: 100%;	
+}
+
+body{ 
+	background-image: url("http://www.preklik.sk/wp-content/uploads/faceboook.jpg");
+	background-size: cover;
+	background-position: center;	 	
+}
+
+h1 {
+	margin-top:20%;
+	margin-bottom: 50px;
+	text-transform: uppercase;
+	color: white;
+	text-shadow: 0px 0px 50px #1185CA, 0px 0px 50px #024268;
+	font-size: 4rem;
+	font-family: 'IBM Plex Mono', monospace;
+
+}
+
+.btn {
+	padding: 1rem 2rem;
+	background-color: white;
+	border-radius: 100px;
+	font-weight: 300;*/
+	 }
+	 position: relative;
+	 margin-top: 10px*/
+
+
+
+hr{ border-style: none;
+	background-color: black;
+	margin-top:20%;
+	margin-bottom: 30%;}
